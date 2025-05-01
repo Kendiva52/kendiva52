@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Kendiva52/kendiva52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Kenele Okorodudu
 
-Here are some ideas to get you started:
+I'm a passionate web developer who loves turning ideas into clean, functional websites and web applications. I'm currently learning front-end development with a focus on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 HTML, CSS, JavaScript
+- ⚛️ React
+- 🐍 Python
+- 🧩 Problem-solving & Algorithms
+
+I'm also beginning to explore backend technologies and am excited about contributing to open-source projects, collaborating with other developers, and continuously sharpening my skills.
+
+## 🔭 Current Focus
+- Building real-world projects
+- Improving my skills in JavaScript and React
+- Learning Node.js and Express
+- Becoming a well-rounded full-stack developer
+
+## 📫 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/kenele-happiness-okorodudu
+- Portfolio: https://sites.google.com/view/okorodudukenile/home
+- Email: okorodudukenile@gmail.com
+
+Thanks for stopping by!
+
